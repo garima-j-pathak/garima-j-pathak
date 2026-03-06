@@ -54,11 +54,17 @@ I love building projects and exploring new web technologies 🚀
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/garima-pathak-342492394)
-* 📧 Email: (garimapathak2307@gmail.com)
+<p align="left">
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
 
+<a href="https://linkedin.com/in/your-linkedin-username">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
 ---
 
 ⭐ **Thanks for visiting my profile!**
