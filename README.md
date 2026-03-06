@@ -22,9 +22,8 @@ Currently learning and growing in the world of **Web Development**.
 
 ---
 
-## 📊 GitHub Stats
-
-![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=garima-j-pathak&show_icons=true&theme=tokyonight)
+## 📈 Contribution Graph
+[![Garima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=garima-j-pathak&theme=tokyo-night)](https://github.com/garima-j-pathak)
 
 ---
 
@@ -34,12 +33,15 @@ Currently learning and growing in the world of **Web Development**.
 
 ---
 
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garima-j-pathak&layout=compact&theme=tokyonight)
+## 👀 Profile Visitors
+![](https://komarev.com/ghpvc/?username=garima-j-pathak&color=blue)
 
 ---
 
+## ⚡ Fun Fact
+I love building projects and exploring new web technologies 🚀
+
+---
 ## 🌱 Currently Learning
 
 * Advanced **Web Development**
