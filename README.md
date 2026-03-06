@@ -14,13 +14,9 @@ Currently learning and growing in the world of **Web Development**.
 
 ## 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
----
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode" />
+</p>
 
 ## 📈 Contribution Graph
 [![Garima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=garima-j-pathak&theme=tokyo-night)](https://github.com/garima-j-pathak)
