@@ -65,6 +65,7 @@ I love building projects and exploring new web technologies 🚀
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
+
 ---
 
 ⭐ **Thanks for visiting my profile!**
