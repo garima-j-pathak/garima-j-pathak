@@ -24,19 +24,19 @@ Currently learning and growing in the world of **Web Development**.
 
 ## 📊 GitHub Stats
 
-![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=garima-j-pathak\&show_icons=true\&theme=tokyonight)
+![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=garima-j-pathak&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=garima-j-pathak\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=garima-j-pathak&theme=tokyonight)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garima-j-pathak\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garima-j-pathak&layout=compact&theme=tokyonight)
 
 ---
 
