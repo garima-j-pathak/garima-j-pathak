@@ -1,21 +1,20 @@
 # Hi there, I'm Garima Pathak 👋
 
-💻 **Computer Science Student** | 🌐 **Web Technology Enthusiast** | 🚀 **Future Developer**
+🚀 **Full Stack Developer** | **Python & Django Developer**
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm **Garima**, a passionate Computer Science student who loves coding and exploring web technologies.
-I enjoy building simple and useful projects while continuously improving my programming and problem-solving skills.
-Currently learning and growing in the world of **Web Development**.
+I'm a passionate **Full Stack Developer** who enjoys building responsive, scalable, and user-friendly web applications. I love solving real-world problems through clean code and continuously learning new technologies.
+
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,Sql,git,github,vscode" />
 </p>
 
 ## 📈 Contribution Graph
@@ -40,17 +39,21 @@ I love building projects and exploring new web technologies 🚀
 ---
 ## 🌱 Currently Learning
 
-* Advanced **Web Development**
-* **Django Backend Development**
+* Advanced **Python**
+* **System Design**
+* **Data Structures & Algorithms**
+* Rest APIs
 * Better **Problem Solving with Python**
 
 ---
 
 ## 🎯 Goals
 
-✔ Become a **Full Stack Web Developer**
-✔ Build useful real-world projects
-✔ Keep learning new technologies
+✔ Become a skilled **Full Stack Developer**.
+✔ Contribute to Open Source.
+✔ Build scalable real-world applications.
+✔ Continuously learn and improve as a Software Engineer.
+
 
 ---
 
@@ -63,6 +66,10 @@ I love building projects and exploring new web technologies 🚀
 
 <a href="https://linkedin.com/in/your-linkedin-username">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://instagram.com/garima_j_pathak">
+<img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 </p>
 
