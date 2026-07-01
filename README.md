@@ -1,4 +1,4 @@
-# Hi there, I'm Garima 👋
+# Hi there, I'm Garima Pathak 👋
 
 💻 **Computer Science Student** | 🌐 **Web Technology Enthusiast** | 🚀 **Future Developer**
 
