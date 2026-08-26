@@ -1,65 +1,91 @@
-# Hi there, I'm Garima Pathak 👋
+# 👋 Hi, I'm Garima Pathak
 
-🚀 **Full Stack Developer** | **Python & Django Developer**
+### 🚀 Full Stack Web Developer | Python & Django Developer
 
----
+I'm a passionate **Full Stack Developer** who enjoys building responsive, user-friendly, and real-world web applications. I love turning ideas into functional projects and solving problems through clean and efficient code.
 
-## 👩‍💻 About Me
-
-I'm a passionate **Full Stack Developer** who enjoys building responsive, scalable, and user-friendly web applications. I love solving real-world problems through clean code and continuously learning new technologies.
-
+I'm currently focused on strengthening my **Full Stack Development** skills and exploring modern web technologies.
 
 ---
 
-## 🚀 Tech Stack
+## 🌐 My Portfolio
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,Sql,git,github,vscode" />
+<p align="center">
+
+<a href="https://my-portfolio-mn7cu7qgg-garima-j-pathak.vercel.app" target="_blank">
+
+<img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</a>
+
 </p>
 
-## 📈 Contribution Graph
-[![Garima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=garima-j-pathak&theme=tokyo-night)](https://github.com/garima-j-pathak)
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,git,github,vercel,vscode" />
+</p>
+
+**Frontend:** HTML • CSS • JavaScript • React.js
+**Backend:** Python • Django
+**Database:** MySQL
+**Tools:** Git • GitHub • Vercel • VS Code
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=garima-j-pathak&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=garima-j-pathak&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 👀 Profile Visitors
-![](https://komarev.com/ghpvc/?username=garima-j-pathak&color=blue)
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=garima-j-pathak&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-I love building projects and exploring new web technologies 🚀
+
+💡 I love turning ideas into projects and learning new technologies by building things.
+
+🚀 For me, every project is an opportunity to learn something new!
 
 ---
+
 ## 🌱 Currently Learning
 
-* Advanced **Python**
-* **System Design**
-* **Data Structures & Algorithms**
-* Rest APIs
-* Better **Problem Solving with Python**
+* 🐍 Advanced Python
+* 🌐 Django & REST APIs
+* ⚛️ React.js
+* 🗄️ Database Design with MySQL
+* 🧠 Data Structures & Algorithms
+* 🏗️ System Design
+* 💡 Problem Solving
 
 ---
 
 ## 🎯 Goals
 
-✔ Become a skilled **Full Stack Developer**.
-✔ Contribute to Open Source.
-✔ Build scalable real-world applications.
-✔ Continuously learn and improve as a Software Engineer.
-
+* 🚀 Become a skilled **Full Stack Developer**
+* 💻 Build scalable and real-world web applications
+* 🌍 Contribute to **Open Source**
+* 🧠 Improve DSA and problem-solving skills
+* 📚 Keep learning modern technologies
+* 💼 Start my career as a Software Developer
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="mailto:your-email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
@@ -71,8 +97,15 @@ I love building projects and exploring new web technologies 🚀
 <a href="https://instagram.com/garima_j_pathak">
 <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
+
 </p>
 
 ---
 
+<p align="center">
+
 ⭐ **Thanks for visiting my profile!**
+
+💙 *Keep Learning • Keep Building • Keep Growing*
+
+</p>
